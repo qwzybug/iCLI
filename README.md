@@ -1,5 +1,5 @@
 Half-hour hack to piggyback on some Cocoa Touch delegates & implement a dead-simple CLI interface.
 
-Of possible pedagogical interest if nothing else.
+This one's got some Lua!
 
-![Screen shot](http://img.skitch.com/20100720-ct2qj2frdmkfbnk6f639k1bw4f.png)
+![Screen shot](http://img.skitch.com/20100720-qxtwytrt7r1yjdixq21ra84838.png)

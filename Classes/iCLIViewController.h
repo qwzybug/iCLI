@@ -10,8 +10,10 @@
 
 #import "iCLITextViewDelegate.h";
 
-@interface iCLIViewController : UIViewController <iCLICommandDelegate> {
+#import "lua.h"
 
+@interface iCLIViewController : UIViewController <iCLICommandDelegate> {
+	lua_State *L;
 }
 
 @property (nonatomic, retain) IBOutlet UITextView *textView;
