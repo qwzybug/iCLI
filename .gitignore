@@ -1,0 +1,9 @@
+Icon?
+build
+*.mode*
+*.pbxuser
+*.perspectivev3
+*.log
+*.dSYM
+xcuserdata
+Branding/Current
